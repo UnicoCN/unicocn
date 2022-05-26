@@ -21,10 +21,10 @@
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=UnicoCN&theme=xcode" /> </div>
 
 <p></p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/UnicoCN/OOP_MUD_Game">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UnicoCN&repo=OOP_MUD_Game" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/UnicoCN/unicocn.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UnicoCN&repo=unicocn.github.io" />
 </a>
 <p></p>
