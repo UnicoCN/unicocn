@@ -25,16 +25,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=UnicoCN&show_icons=true&theme=merko" />
 </a>
-<p></p>
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=UnicoCN&theme=xcode" /> </div>
 
-<p></p>
-<a href="https://github.com/UnicoCN/OOP_MUD_Game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UnicoCN&repo=OOP_MUD_Game" />
-</a>
-<a href="https://github.com/UnicoCN/unicocn.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UnicoCN&repo=unicocn.github.io" />
-</a>
 <p></p>
 
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=UnicoCN" /> </div>
