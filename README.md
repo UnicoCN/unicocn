@@ -4,8 +4,6 @@
 
 📖 &ensp; Majoring in **Information Security**
 
-➡️ &ensp; My Blog [Here](http://unicocn.github.io)
-
 ⬇️ &ensp; **Languages & Tools**
 <p></p>
 <span > <img src="https://img.shields.io/badge/-C-pink?style=flat-square&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/-C++-E34F26?style=flat-square&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/-Java-1572B6?style=flat-square&logo=java" /> <img src="https://img.shields.io/badge/-Python-oringe?style=flat-square&logo=python" /> <img src="https://img.shields.io/badge/-Qt-red?style=flat-square&logo=qt" /> <img src="https://img.shields.io/badge/-ROS-pink?style=flat-square&logo=ros&logoColor=white" /> <img src="https://img.shields.io/badge/-Latex-blue?style=flat-square&logo=latex&logoColor=white" /> <img src="https://img.shields.io/badge/-Markdown-purple?style=flat-square&logo=markdown&logoColor=white" /> </span>
