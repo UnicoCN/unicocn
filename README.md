@@ -1,6 +1,6 @@
 ## 👋 Hi there, this is Jiacheng.
 
-🧑‍🎓 &ensp; Junior Student in ZJU
+🧑‍🎓 &ensp; Senior Student in ZJU
 
 📖 &ensp; Majoring in **Information Security**
 
