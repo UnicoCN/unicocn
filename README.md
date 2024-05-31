@@ -6,7 +6,7 @@
 
 🏷️ &ensp; **Languages & Tools**
 <p></p>
-<span > <img src="https://img.shields.io/badge/-C-pink?style=flat-square&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/-C++-E34F26?style=flat-square&logo=cplusplus&logoColor=white" />  <img src="https://img.shields.io/badge/-Python-oringe?style=flat-square&logo=python" /> <img src="https://img.shields.io/badge/-Rust-red?style=flat-square&logo=rust" /> <img src="https://img.shields.io/badge/-Go-purple?style=flat-square&logo=go" /> <img src="https://img.shields.io/badge/-C#-black?style=flat-square&logo=c#&logoColor=white" /> <img src="https://img.shields.io/badge/-Latex-blue?style=flat-square&logo=latex&logoColor=white" />  </span>
+<span > <img src="https://img.shields.io/badge/-C-pink?style=flat-square&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/-C++-E34F26?style=flat-square&logo=cplusplus&logoColor=white" />  <img src="https://img.shields.io/badge/-Python-oringe?style=flat-square&logo=python" /> <img src="https://img.shields.io/badge/-Rust-red?style=flat-square&logo=rust" /> <img src="https://img.shields.io/badge/-Go-purple?style=flat-square&logo=go" /> <img src="https://img.shields.io/badge/-Latex-blue?style=flat-square&logo=latex&logoColor=white" />  </span>
 <p></p>
 
 🥰 &ensp; <b>Interested Fields</b>
