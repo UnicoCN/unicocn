@@ -1,8 +1,8 @@
 ## 👋 Hi there, this is Jiacheng.
 
-🧑‍🎓 &ensp; Senior Student in ZJU
+🧑‍🎓 &ensp; ZJU '24, majoring in **Information Security**.
 
-📖 &ensp; Majoring in **Information Security**
+💻 &ensp; Currently a software engineer.
 
 🏷️ &ensp; **Languages & Tools**
 <p></p>
