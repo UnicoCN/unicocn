@@ -5,9 +5,17 @@
 💻 &ensp; Currently a software engineer.
 
 🏷️ &ensp; **Languages & Tools**
-<p></p>
-<span > <img src="https://img.shields.io/badge/-C-pink?style=flat-square&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/-C++-E34F26?style=flat-square&logo=cplusplus&logoColor=white" />  <img src="https://img.shields.io/badge/-Python-oringe?style=flat-square&logo=python" /> <img src="https://img.shields.io/badge/-Rust-red?style=flat-square&logo=rust" /> <img src="https://img.shields.io/badge/-Go-purple?style=flat-square&logo=go" /> <img src="https://img.shields.io/badge/-Latex-blue?style=flat-square&logo=latex&logoColor=white" />  </span>
-<p></p>
+<p></p>  
+<span>   
+    <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />  
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />  
+    <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c#&logoColor=white" />  
+    <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />  
+    <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />  
+    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />  
+    <img src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />  
+</span>  
+<p></p>  
 
 🥰 &ensp; <b>Interested Fields</b>
 <p></p>
