@@ -19,7 +19,7 @@
 
 🥰 &ensp; <b>Interested Fields</b>
 <p></p>
-<span ><img src="https://img.shields.io/badge/-Distributed System-pink?style=flat-square&logo=&logoColor=white" /> <img src="https://img.shields.io/badge/-Kubernetes-1572B6?style=flat-square&logo=&logoColor=blue" />  <img src="https://img.shields.io/badge/-Game Develop-green?style=flat-square&logo="  </span>
+<span ><img src="https://img.shields.io/badge/-Distributed System-pink?style=flat-square&logo=&logoColor=white" /> <img src="https://img.shields.io/badge/-Database-1572B6?style=flat-square&logo=&logoColor=blue" />  <img src="https://img.shields.io/badge/-LLM-green?style=flat-square&logo="  </span>
 <p></p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
