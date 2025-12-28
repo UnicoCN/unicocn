@@ -1,33 +1,38 @@
-## 👋 Hi there, this is Jiacheng.
+<div align="center">
 
-🧑‍🎓 &ensp; ZJU '24, majoring in **Information Security**.
+  <!-- 1. 动态标题 -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Jiacheng+👋" alt="Typing SVG" />
+  </a>
+  
+  <!-- About Me -->
+  <p align="center">
+    👨‍💻 Software Engineer &nbsp;|&nbsp; 🎓 ZJU '24 InfoSec
+  </p>
 
-💻 &ensp; Currently a software engineer.
+  <br/>
 
-🏷️ &ensp; **Languages & Tools**
-<p></p>  
-<span>   
-    <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />  
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />  
-    <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c#&logoColor=white" />  
-    <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />  
-    <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />  
-    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />  
-    <img src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />  
-</span>  
-<p></p>  
+  <!-- 2. 兴趣领域 -->
+  <p>
+    <img src="https://img.shields.io/badge/-Distributed_System-000000?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-AI infra-000000?style=for-the-badge&logo=databricks&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Machine_Learning-000000?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  </p>
 
-🥰 &ensp; <b>Interested Fields</b>
-<p></p>
-<span ><img src="https://img.shields.io/badge/-Distributed System-pink?style=flat-square&logo=&logoColor=white" /> <img src="https://img.shields.io/badge/-Database-1572B6?style=flat-square&logo=&logoColor=blue" />  <img src="https://img.shields.io/badge/-LLM-green?style=flat-square&logo="  </span>
-<p></p>
+  <!-- 3. 技术栈 -->
+  
+  <img src="https://skillicons.dev/icons?i=cpp,python,cs,go,rust,ts,latex&theme=light&perline=10" />
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnicoCN&layout=compact" />
-</a>
-<p></p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=UnicoCN&show_icons=true&theme=merko" />
-</a>
+  <br/><br/>
 
-<p></p>
+  <!-- 4. 统计卡片 -->
+  <div align="center">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=UnicoCN&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&text_color=555&icon_color=3B82F6" height="150" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=UnicoCN&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=555" height="150" />
+  </div>
+
+  <!-- 底部详情 -->
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UnicoCN&theme=transparent" />
+
+</div>
