@@ -15,7 +15,7 @@
   <!-- 2. 兴趣领域 -->
   <p>
     <img src="https://img.shields.io/badge/-Distributed_System-000000?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-AI infra-000000?style=for-the-badge&logo=databricks&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Database-000000?style=for-the-badge&logo=databricks&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Machine_Learning-000000?style=for-the-badge&logo=pytorch&logoColor=white"/>
   </p>
 
